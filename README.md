@@ -55,7 +55,7 @@ This enables an optional advancement for staying airborne for 30 seconds using S
 
 
 
-Description:
+## Description
 
 SuperLunge
 
